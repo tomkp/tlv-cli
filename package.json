@@ -1,0 +1,19 @@
+{
+  "name": "tlv-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "hexify": "^1.0.1",
+    "log-symbols": "^1.0.2",
+    "meow": "^3.7.0",
+    "tlv": "^1.1.1"
+  }
+}
